@@ -61,3 +61,4 @@ Collection of datasets for network research.
 - [CAIDA data](http://www.caida.org/data/overview/)
 - [GraphChallenge](https://graphchallenge.mit.edu/data-sets)
 - [Real Datasets for Spatial Databases: Road Networks and Points of Interest](https://www.cs.utah.edu/~lifeifei/SpatialDataset.htm)
+- [Machine learning datasets](https://www.datasetlist.com/)
