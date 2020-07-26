@@ -6,6 +6,7 @@ Collection of datasets for network research.
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
 - [Stanford Biomedical Network Dataset Collection](http://snap.stanford.edu/biodata/index.html)
 - [Social Computing Data Repository](http://socialcomputing.asu.edu/pages/datasets)
+- [TUDatasets](https://chrsmrrs.github.io/datasets/)
 - [The UCI Network Data Repository](http://networkdata.ics.uci.edu/index.html) / [The UCI Network Data Collection](https://networkdata.ics.uci.edu/resources.php)
 - [UCINET Software](https://sites.google.com/site/ucinetsoftware/datasets)
 - [Indiana University CNetS data](http://cnets.indiana.edu/resources/data-repository/)
